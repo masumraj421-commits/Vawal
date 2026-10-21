@@ -1,0 +1,6 @@
+{
+  "name": "ভাওয়াল ফ্রেশ ফুড | Bhawal Fresh Food",
+  "description": "বাংলাদেশের প্রিমিয়াম প্রাকৃতিক মধু, কাজুবাদাম, কাঠবাদাম, কিশমিশ ও ড্রাই ফ্রুটসের বিশ্বস্ত ই-কমার্স শপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
